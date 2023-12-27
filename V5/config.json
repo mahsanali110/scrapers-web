@@ -1,0 +1,667 @@
+{
+    		        "APP URDU":
+{
+    "website_url": "https://urdu.app.com.pk/urdu/",
+    "category_name": "Main",
+    "json_file": "app_urdu.json",
+    "content_json": "content.json",
+    "parent": "/web/APP URDU/",
+    "element_soup_type": "div",
+    "element_soup_class": "td-block-span6",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "td_module_10 td_module_wrap td-animation-stack",
+    "body_type": "p",
+    "body_div": {"class": "td-post-content tagdiv-type"},
+    "author_type": "div",
+    "author_div": {"class": "tdb-author-name-wrap"},
+    "title_type": "h1",
+    "title_div": {"class": "tdb-block-inner td-fix-index"},
+    "date_type": "time",
+    "date_div": {"class": "entry-date updated td-module-date"},
+    "image_div": {"class": "td-post-featured-image"}
+},
+				 	    	       "Reuters":
+{
+    "website_url": "https://www.reuters.com/world/",
+    "category_name": "World",
+    "json_file": "reuters.json",
+    "content_json": "content.json",
+    "parent": "/web/Reuters/",
+    "element_soup_type": "div",
+    "element_soup_class": "Topic",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "td_module_10 td_module_wrap td-animation-stack",
+    "body_type": "p",
+    "body_div": {"class": "text__text__1FZLe text__dark-grey__3Ml43 text__regular__2N1Xr text__large__nEccO body__full_width__ekUdw body__large_body__FV5_X article-body__element__2p5pI"},
+    "author_type": "div",
+    "author_div": {"class": "text__text__1FZLe text__dark-grey__3Ml43 text__medium__1kbOh text__small__1kGq2 article-header__author__3PcB3"},
+    "title_type": "h1",
+    "title_div": {"class": "entry-title"},
+    "date_type": "time",
+    "date_div": {"class": "date-line__date__23Ge-"},
+    "image_div": {"class": "stateful-image__image__ThpeM"}
+},
+
+	        "PPI":
+{
+    "website_url": "https://ppinewsagency.com/",
+    "category_name": "Main",
+    "json_file": "ppi.json",
+    "content_json": "content.json",
+    "parent": "/web/PPI/",
+    "element_soup_type": "div",
+    "element_soup_class": "elementor-container elementor-column-gap-default",
+    "href_div": "",
+    "article_soup_type": "article",
+    "article_soup_div": "vl-archive-post post-639583 post type-post status-publish format-standard hentry category-national",
+    "body_type": "div",
+    "body_div": {"class": "entry-content"},
+    "author_type": "span",
+    "author_div": {"class": "byline"},
+    "title_type": "h1",
+    "title_div": {"class": "vl-container vl-clearfix"},
+    "date_type": "time",
+    "date_div": {"class": "published updated"},
+    "image_div": {"class": "tdb-block-inner td-fix-index"}
+},
+			        "Qaumi Akbar":
+{
+    "website_url": "https://qaumiakhbar.com/category/latest-news/",
+    "category_name": "Latest",
+    "json_file": "qaumi_akhbar.json",
+    "content_json": "content.json",
+    "parent": "/web/Qaumi Akbar/",
+    "element_soup_type": "div",
+    "element_soup_class": "hb-blogs container",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "col-lg-12 col-md-8 col-sm-12",
+    "body_type": "p",
+    "body_div": {"class": "entry-content"},
+    "author_type": "div",
+    "author_div": {"class": "authorname"},
+    "title_type": "h1",
+    "title_div": {"class":"single-category-post-custom"},
+    "date_type": "time",
+    "date_div": {"class": "entry-date published updated"},
+    "image_div": {"class": "entry-content"}
+},
+		        "Pakistan Today":
+{
+    "website_url": "https://www.pakistantoday.com.pk/category/national/",
+    "category_name": "National",
+    "json_file": "pakistan_today.json",
+    "content_json": "content.json",
+    "parent": "/web/Pakistan Today/",
+    "element_soup_type": "div",
+    "element_soup_class": "td-pb-span8 td-main-content",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "td_module_10 td_module_wrap td-animation-stack",
+    "body_type": "p",
+    "body_div": {"class": "tdb-block-inner td-fix-index"},
+    "author_type": "div",
+    "author_div": {"class": "tdb-author-name-wrap"},
+    "title_type": "h1",
+    "title_div": {"class": "tdb-block-inner td-fix-index"},
+    "date_type": "time",
+    "date_div": {"class": "entry-date updated td-module-date"},
+    "image_div": {"class": "td_block_wrap tdb_single_featured_image tdi_48 tdb-content-horiz-left td-pb-border-top td_block_template_1"}
+},
+            "NNI":
+{
+    "website_url": "https://nni-news.com.pk/",
+    "category_name": "Main",
+    "json_file": "nni.json",
+    "content_json": "content.json",
+    "parent": "/web/NNI/",
+    "element_soup_type": "div",
+    "element_soup_class": "td-block-row",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "td-pb-span8 td-main-content",
+    "body_type": "p",
+    "body_div": {"class": "td-post-featured-image"},
+    "author_type": "div",
+    "author_div": {"class": "td-post-author-name"},
+    "title_type": "h1",
+    "title_div": {"class": "td-post-header"},
+    "date_type": "time",
+    "date_div": {"class": "entry-date updated td-module-date"},
+    "image_div": {"class": "td-post-featured-image"}
+},
+    "Pakistan Observer":
+			{
+    "website_url": "https://pakobserver.net/karachi/",
+    "category_name": "Main",
+    "json_file": "pakistan_observer.json",
+    "content_json": "content.json",
+    "parent": "/web/Pakistan Observer/",
+    "element_soup_type": "div",
+    "element_soup_class": "wpb_wrapper",
+    "href_div": "",
+    "article_soup_type": "div",
+    "article_soup_div": "td-pb-span8 td-main-content",
+    "body_type": "p",
+    "body_div": {"class": "td-post-content tagdiv-type"},
+    "author_type": "div",
+    "author_div": {"class": "td-post-author-name"},
+    "title_type": "h1",
+    "title_div": {"class": "td-post-header"},
+    "date_type": "time",
+    "date_div": {"class": "entry-date updated td-module-date"},
+    "image_div": {"class": "td-post-featured-image"}
+},
+
+		"The Nawaiwaqt":
+	{
+		"website_url" :	"https://www.nawaiwaqt.com.pk/latest",
+		"category_name" : "Latest",
+		"json_file" : "the_nawaiwaqt.json",
+		"content_json" : "content.json",
+		"parent" : "/web/The Nawaiwaqt/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "col-md-6 col-sm-6 col-xs-12",
+		"href_div" : "",
+		"article_soup_type" : "article",
+		"article_soup_div" : {"class": "post"},
+		"body_type" : "p",
+		"body_div" : {"class": "entry-post mrgn-top"},
+		"author_type" : "div",
+		"author_div": {"class": "col-lg-9"},
+		"title_type": "h2",
+		"title_div": {"class":"head-post"},
+		"date_type": "div",
+		"date_div": {"class": "meta"},
+		"image_div": {"class":"responsive_test"}
+	},
+		"Daily Express News":
+	{
+		"website_url" :	"https://www.express.pk/latest-news/",
+		"category_name" : "Latest",
+		"json_file" : "express_news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Daily Express News/",
+		"element_soup_type" : "li",
+		"element_soup_class" : "wln-10",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "primary span-16 last"},
+		"body_type" : "p",
+		"body_div" : {"class": "span-16 story-content last mobile-story-content fix-l-r"},
+		"author_type" : "span",
+		"author_div": {"class": "author"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "span",
+		"date_div": {"class":"timestamp"},
+		"image_div": {"class": "story-image-container mobile-story-image-container"}
+	},
+
+
+				"Financial Daily":
+	{
+		"website_url" :	"https://thefinancialdaily.com/category/news/national/",
+		"category_name" : "National",
+		"json_file" : "thefinancialdaily.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Financial Daily/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "item-details",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class":"td-theme-wrap"},
+		"body_type" : "p",
+		"body_div" : {"class":"td-post-content tagdiv-type"},
+		"author_type" : "div",
+		"author_div": {"class":"td-post-author-name"},
+		"title_type": "h1",
+		"title_div": "td-post-title",
+		"date_type": "div",
+		"date_div": {"class":"td_data_time"},
+		"image_div": {"class":"td-post-featured-image"}
+	},
+				"Daily Ummat":
+	{
+		"website_url" :	"https://ummat.net/",
+		"category_name" : "Main",
+		"json_file" : "ummat.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Daily Ummat/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "cat-box-content",
+		"href_div" : "",
+		"article_soup_type" : "article",
+		"article_soup_div" : {"class":"post-listing post-791512 post type-post status-publish format-standard has-post-thumbnail  category-topnews category-national"},
+		"body_type" : "p",
+		"body_div" : {"class":"entry"},
+		"author_type" : "",
+		"author_div": {"class":""},
+		"title_type": "h1",
+		"title_div": "name post-title entry-title",
+		"date_type": "p",
+		"date_div": {"class":"post-meta"},
+		"image_div": {"class":"single-post-thumb"}
+	},
+
+					"Business Recorder":
+	{
+		"website_url" :	"https://www.brecorder.com/latest-news",
+		"category_name" : "Latest",
+		"json_file" : "business_recorder.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Business Recorder/",
+		"element_soup_type" : "article",
+		"element_soup_class" : "sm:mr-4",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class":"container flex mt-6 scroll-container"},
+		"body_type" : "div",
+		"body_div" : {"class":"story__content overflow-hidden pt-2 mt-2"},
+		"author_type" : "a",
+		"author_div": {"class":"story__byline__link"},
+		"title_type": "h1",
+		"title_div": "story__title      text-7.5  font-normal    mb-4  ",
+		"date_type": "div",
+		"date_div": {"class":"mb-4"},
+		"image_div": {"class":"media__item"}
+	},
+
+					"Jasarat":
+	{
+		"website_url" :	"https://www.jasarat.com/latestnews/",
+		"category_name" : "Latest",
+		"json_file" : "jasarat.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Jasarat/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "td_block_inner td-column-3",
+		"href_div" : "",
+		"article_soup_type" : "article",
+		"article_soup_div" : {"class":"post-1203575 post type-post status-publish format-standard has-post-thumbnail hentry category-pakistan-2 category-tazatareen category-pakistan category-latestnews tag-fawad-chaudhary tag-pml-n-must-have-got-an-idea-of-its-political-status-from-the-workers-convention"},
+		"body_type" : "p",
+		"body_div" : {"class":"td-post-content"},
+		"author_type" : "div",
+		"author_div": {"class":"td-post-author-name"},
+		"title_type": "h1",
+		"title_div": "td-post-header",
+		"date_type": "span",
+		"date_div": {"class":"td-post-date"},
+		"image_div": {"class":"td-post-featured-image"}
+	},
+					"Financial Daily General":
+	{
+		"website_url" :	"https://thefinancialdaily.com/category/news/general/",
+		"category_name" : "General",
+		"json_file" : "thefinancialdailygeneral.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Financial Daily General/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "item-details",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class":"td-theme-wrap"},
+		"body_type" : "p",
+		"body_div" : {"class":"td-post-content tagdiv-type"},
+		"author_type" : "div",
+		"author_div": {"class":"td-post-author-name"},
+		"title_type": "h1",
+		"title_div": "td-post-title",
+		"date_type": "div",
+		"date_div": {"class":"td_data_time"},
+		"image_div": {"class":"td-post-featured-image"}
+	},
+
+				"92 News":
+	{
+		"website_url" :	"https://92newshd.tv/latest-news",
+		"category_name" : "Latest",
+		"json_file" : "92_news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/92 News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "col-sm-6 col-md-4 col-lg-3 sub-posts post-item",
+		"href_div" : "",
+		"article_soup_type" : "article",
+		"article_soup_div" : {"class": "row"},
+		"body_type" : "p",
+		"body_div" : {"class":"content_detail"},
+		"author_type" : "",
+		"author_div": "",
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "div",
+		"date_div": {"class": "published_time my-2"},
+		"image_div": {"class":"col post-details"}
+	}
+
+	,
+
+			"Geo News":
+	{
+		"website_url" :	"https://urdu.geo.tv/latest-news",
+		"category_name" : "Latest",
+		"json_file" : "geo_news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Geo News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "col-xs-6 col-sm-6 col-lg-6 col-md-6 singleBlock",
+		"href_div" : "",
+		"article_soup_type" : "section",
+		"article_soup_div" : {"class": "detail-section"},
+		"body_type" : "p",
+		"body_div" : {"class":"content-area"},
+		"author_type" : "span",
+		"author_div": {"class":"author_agency"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "div",
+		"date_div": {"class": "post-time"},
+		"image_div": {"class":"content-area"}
+	}
+
+	,
+
+
+
+		"Daily Dunya News":
+	{
+		"website_url" :	"https://dunya.com.pk/index.php/tazatareen",
+		"category_name" : "Latest",
+		"json_file" : "daily_dunya_news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Daily Dunya News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "my-2",
+		"href_div" : "",
+		"article_soup_type" : "section",
+		"article_soup_div" : {"class": "news-section"},
+		"body_type" : "p",
+		"body_div" : "",
+		"author_type" : "",
+		"author_div": "",
+		"title_type": "h2",
+		"title_div": "",
+		"date_type": "time",
+		"date_div": {"class": "font-weight-bold text-dark"},
+		"image_div": {"class":"col-12 col-sm-12 col-md-8 mx-auto"}
+	}
+
+	,
+
+
+		"Daily Pakistan":
+	{
+		"website_url" :	"https://dailypakistan.com.pk/latest",
+		"category_name" : "Latest",
+		"json_file" : "daily_pakistan.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Daily Pakistan/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "post-review post-review-category-page col-md-4 col-sm-12 col-xs-12",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "large-widget"},
+		"body_type" : "p",
+		"body_div" : {"class": "post-desc"},
+		"author_type" : "",
+		"author_div": "",
+		"title_type": "h1",
+		"title_div": {"class":"title-area detail-title-area"},
+		"date_type": "div",
+		"date_div": {"class": "col-md-4 col-xs-12 news_date_on_detail_page"},
+		"image_div": {"class":"responsive_test"}
+	}
+	,
+
+			"BBC Urdu":
+	{
+		"website_url" :	"https://www.bbc.com/urdu/topics/cjgn7n9zzq7t",
+		"category_name" : "Pakistan",
+		"json_file" : "bbc-urdu.json",
+		"content_json" : "content.json",
+		"parent" : "/web/BBC Urdu/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "bbc-1ff36h2",
+		"href_div" : "",
+		"article_soup_type" : "main",
+		"article_soup_div" : {"class": "bbc-bjn8wh e1v051r10"},
+		"body_type" : "div",
+		"body_div" : {"class": "bbc-yabuuk e17g058b0"},
+		"author_type" : "span",
+		"author_div": {"class": "bbc-9scsxr"},
+		"title_type": "h1",
+		"title_div": {"class":"bbc-1gvq3vt e1p3vdyi0"},
+		"date_type": "div",
+		"date_div": {"class": "bbc-4wucq3 ebmt73l0"},
+		"image_div": {"class": "bbc-997y1y eihqrxw0"}
+	}
+
+	,
+
+		"Daily Times Pakistan":
+	{
+		"website_url" :	"https://dailytimes.com.pk/tag/latest/",
+		"category_name" : "Latest",
+		"json_file" : "daily_times.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Daily Times Pakistan/",
+		"element_soup_type" : "article",
+		"element_soup_class" : "",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "site-container-wrap"},
+		"body_type" : "b",
+		"body_div" : {"class": "entry-content"},
+		"author_type" : "a",
+		"author_div": {"class": "author-name"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "time",
+		"date_div": {"class":"entry-time"},
+		"image_div": {"class":"entry-content"}
+	}
+
+	,
+
+	"The Nation":
+	{
+		"website_url" :	"https://www.nation.com.pk/national",
+		"category_name" : "National",
+		"json_file" : "the-nation.json",
+		"content_json" : "content.json",
+		"parent" : "/web/The Nation/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "itemblog",
+		"href_div" : "",
+		"article_soup_type" : "section",
+		"article_soup_div" : {"class": "detail-page"},
+		"body_type" : "p",
+		"body_div" : {"class": "post-content"},
+		"author_type" : "div",
+		"author_div": {"class": "authorname"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "p",
+		"date_div": {"class": "meta-date"},
+		"image_div": "imgpost"
+	}
+	,
+
+		"The Express Tribune":
+	{
+		"website_url" :	"https://tribune.com.pk/latest",
+		"category_name" : "Latest",
+		"json_file" : "tribune.json",
+		"content_json" : "content.json",
+		"parent" : "/web/The Express Tribune/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "col-md-8 order-2 pl-auto pl-md-0",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "row"},
+		"body_type" : "span",
+		"body_div" : {"class": "story-text"},
+		"author_type" : "div",
+		"author_div": {"class": "left-authorbox"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "span",
+		"date_div": {"class":"storypage-leftside"},
+		"image_div": {"class":"featured-image-global"}
+	}
+
+	,
+
+	"Jang News":
+	{
+		"website_url" :	"https://jang.com.pk/category/today-newspaper/topstory",
+		"category_name" : "Top Stories",
+		"json_file" : "jang-news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Jang News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "cat_detail_right",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "detail-right"},
+		"body_type" : "p",
+		"body_div" : {"class": "detail_view_content"},
+		"author_type" : "div",
+		"author_div": {"class": "detail-time"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "div",
+		"date_div": {"class": "detail-time"},
+		"image_div": "figure"
+	}
+
+	,
+
+	"Hum News":
+	{
+		"website_url" :	"https://www.humnews.pk/category/latest/",
+		"category_name" : "Latest",
+		"json_file" : "hum_news.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Hum News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "archive-single-full",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "col-md-8 col-print-12"},
+		"body_type" : "p",
+		"body_div" : {"class": "post-content-full"},
+		"author_type" : "span",
+		"author_div": {"class": "post-img-author"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "div",
+		"date_div": {"class":"meta-date post-date-new"},
+		"image_div": {"class": "post-img-feat"}
+	}
+
+	,
+
+
+
+
+
+	"The Dawn":
+	{
+		"website_url" :	"https://www.dawn.com/latest-news#all",
+		"category_name" : "Latest",
+		"json_file" : "dawn-news-english.json",
+		"content_json" : "content.json",
+		"parent" : "/web/The Dawn/",
+		"element_soup_type" : "article",
+		"element_soup_class" : "story box pb-2 mb-5 sm:mb-4 border-b sm:border-none",
+		"href_div" : {"class": "story__link"},
+		"article_soup_type" : "article",
+		"article_soup_div" : {"class": "story font-georgia bg-white"},
+		"body_type" : "p",
+		"body_div" : {"class": "story__content overflow-hidden text-4 sm:text-4.5 pt-1 mt-1"},
+		"author_type" : "span",
+		"author_div": {"class": "story__byline text-3 text-gray-500 font-arial"},
+		"title_type": "h2",
+		"title_div": "",
+		"date_type": "span",
+		"date_div": {"class": "timestamp--time timeago"},
+		"image_div": "picture"
+	}
+	,
+		"The News":
+	{
+		"website_url" :	"https://www.thenews.com.pk/latest-stories",
+		"category_name" : "Latest",
+		"json_file" : "the-news-english.json",
+		"content_json" : "content.json",
+		"parent" : "/web/The News/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "writter-list-item-story",
+		"href_div" : {"class": "open-section latest-page-img"},
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "detail-content"},
+		"body_type" : "p",
+		"body_div" : {"class": "story-detail"},
+		"author_type" : "div",
+		"author_div": {"class": "category-source"},
+		"title_type": "h1",
+		"title_div": "",
+		"date_type": "div",
+		"date_div": {"class": "category-date"},
+		"image_div": "figure"
+	}
+	,
+	"Global Times":
+	{
+		"website_url" :	"https://www.globaltimes.cn/world/",
+		"category_name" : "World",
+		"json_file" : "global-times.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Global Times/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "list_img",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : {"class": "article"},
+		"body_type" : "b",
+		"body_div" : {"class": "article_right"},
+		"author_type" : "span",
+		"author_div": {"class": "byline"},
+		"title_type": "div",
+		"title_div": {"class": "article_title"},
+		"date_type": "span",
+		"date_div": {"class": "pub_time"},
+		"image_div": "center"
+	},
+
+			"Jurat":
+	{
+		"website_url" :	"https://juraat.com/category/breaking-news/",
+		"category_name" : "Main",
+		"json_file" : "jurat.json",
+		"content_json" : "content.json",
+		"parent" : "/web/Jurat/",
+		"element_soup_type" : "div",
+		"element_soup_class" : "lz-col lz-xs12 lz-sm6 lz-md4 lz-lg3",
+		"href_div" : "",
+		"article_soup_type" : "div",
+		"article_soup_div" : "lz-col lz-xs12 lz-sm6 lz-md4 lz-lg3",
+		"body_type" : "p",
+		"body_div" : {"class": "lz-npp-post-default"},
+		"author_type" : "div",
+		"author_div": {"class": "lz-npp-post-big-detailed-stats"},
+		"title_type": "h2",
+		"title_div": {"class":"lz-col lz-xs12 lz-sm6"},
+		"date_type": "div",
+		"date_div": {"class": "meta"},
+		"image_div": {"class":"lz-col lz-xs12 lz-sm6"}
+	}
+}
+
+
+
+

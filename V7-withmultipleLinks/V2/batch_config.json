@@ -1,0 +1,15 @@
+{
+  "url_auth":"http://182.180.119.154:3030/#/login",
+  "user_data": {
+            "email": "ai.clipper@stackintel.io",
+            "password": "Admin123",
+            "forced": "APP"
+        },
+  "api_url_web": "http://182.180.119.154:5000/jobs/websiteJobs?origin=AI",
+
+    "channels": ["AFP","APP","NNI","Pakistan Observer","Pakistan Today","PPI","The Nation","Qaumi Akbar","Business Recorder","Reuters","Financial Daily","Daily Times Pakistan","The Dawn","Express Tribune","Daily Express","Dunya","Jurat","Jang News","Daily Ummat"]
+}
+
+
+
+
